@@ -135,7 +135,7 @@ def construct_set(tokens):
 
     return s
 
-source = "let A = {1 2 3 4 5 6 7 8 9 10}"
+source = "{1 2 3 4 5 6 7 8 9 10}"
 lexer = Lexer(source)
 
 print(source)

@@ -144,3 +144,5 @@ tokens = reference_brackets(lexer.tokenize())
 #    print(tok)
 
 print(construct_set(tokens))
+
+# TODO: have sets as elements of other sets
